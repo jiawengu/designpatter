@@ -1,0 +1,17 @@
+/META-INF/
+/adapter/
+/bridge/
+/builder/
+/chainOfResponsibility/
+/com/
+/command/
+/decorator/
+/factory/
+/flyweight/
+/mediator/
+/memento/
+/observer/
+/proxy/
+/singleton/
+/state/
+/strategy/
